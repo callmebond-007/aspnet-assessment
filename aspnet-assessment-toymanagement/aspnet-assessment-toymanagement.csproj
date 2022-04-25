@@ -171,6 +171,7 @@
     <Compile Include="AddToy.aspx.designer.cs">
       <DependentUpon>AddToy.aspx</DependentUpon>
     </Compile>
+    <Compile Include="ADO\ToyRepository.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>
